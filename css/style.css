@@ -566,9 +566,10 @@ figcaption>span{
 	justify-content: space-between;
 }
 
-.jury-ph>img{
+.jury-ph>div>img{
 	width: 359px;
 	height: 359px;
+	border-radius: 50%;
 }
 
 .sps{
